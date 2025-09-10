@@ -1,0 +1,5 @@
+A simple machine learning project that uses the power of random forests to predict the winner and method of a UFC Fight based on several factors including age, strikes per minute, takedowns per 15 minutes, etc.
+
+The model is trained on fights in the UFC from 2010 - 2024 
+
+All information on selected fighters is gathered by scraping the fighters stats off the official UFC page
