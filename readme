@@ -1,5 +1,11 @@
-A simple machine learning project that uses the power of random forests to predict the winner and method of a UFC Fight based on several factors including age, strikes per minute, takedowns per 15 minutes, etc.
+ UFC Fight Predictor (Machine Learning Project)
+Python, Scikit-learn, Web Scraping, Random Forest
 
-The model is trained on fights in the UFC from 2010 - 2024 
+Created a machine learning model using a Random Forest Classifier to predict UFC fight outcomes and methods based on fighter performance metrics.
 
-All information on selected fighters is gathered by scraping the fighters stats off the official UFC page
+Scraped and processed historical UFC fight data (2010–2024) and implemented automated data cleaning pipelines in Python.
+
+Built a CLI tool to input two fighters and return predictions after live-scraping current stats from the official UFC website.
+
+Achieved high prediction consistency by fine-tuning model parameters and optimizing input feature selection.
+
